@@ -17,13 +17,13 @@ File called “file.bin”
 
 How to use: 
 
-    By clicking 1 user can store multiple passwords (1-5), after inputting the password, key(consists of numbers) and site user can choose how many passwords would he like to be displayed on the file. After selecting the amount, user searches by site to select the exact passwords to be printed in the file. After inputting all the sites, the program terminates, and the passwords can be found in the file. 
+   1. By clicking 1 user can store multiple passwords (1-5), after inputting the password, key(consists of numbers) and site user can choose how many passwords would he like to be displayed on the file. After selecting the amount, user searches by site to select the exact passwords to be printed in the file. After inputting all the sites, the program terminates, and the passwords can be found in the file. 
 
-    To make a simple Ceasar Cipher encryption input the number of shifts and the text which you would like to encrypt. The outcome will be printed on the file. 
+   2. To make a simple Ceasar Cipher encryption input the number of shifts and the text which you would like to encrypt. The outcome will be printed on the file. 
 
-    If you already have the XOR encrypted  password, simply input the password and the key. For safety reasons the outcome will only be displayed in the console and not get printed on the file. 
+   3. If you already have the XOR encrypted  password, simply input the password and the key. For safety reasons the outcome will only be displayed in the console and not get printed on the file. 
 
-    If you would like to exit the program just press 4. 
+   4. If you would like to exit the program just press 4. 
 
  
  
